@@ -1,2 +1,2 @@
-# UdaCity-Project
-All UdaCity projects will be stored here
+# IC-UdaCity-Project
+All Ivan Chang's UdaCity projects will be stored here
